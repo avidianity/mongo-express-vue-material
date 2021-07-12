@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"sourceMap": true,
+		"outDir": "./dist",
+		"rootDir": "./src",
+		"strict": true,
+		"noImplicitAny": true,
+		"target": "ES2018",
+		"lib": ["esnext", "ES6"],
+		"module": "commonjs",
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"strictPropertyInitialization": false
+	}
+}
